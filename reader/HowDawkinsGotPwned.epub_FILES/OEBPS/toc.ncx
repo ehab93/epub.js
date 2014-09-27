@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:ab385fdb-193f-4564-886e-99d45b26961c" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>How Dawkins got pwned</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>How Dawkins got pwned (part 1)</text>
+      </navLabel>
+      <content src="Text/how-dawkins-got-pwned-part-1.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>How Dawkins got pwned (part 2)</text>
+      </navLabel>
+      <content src="Text/how-dawkins-got-pwned-part-2.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>How Dawkins got pwned (part 3)</text>
+      </navLabel>
+      <content src="Text/how-dawkins-got-pwned-part-3.html"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>How Dawkins got pwned (part 4)</text>
+      </navLabel>
+      <content src="Text/how-dawkins-got-pwned-part-4.html"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>How Dawkins got pwned (part 5)</text>
+      </navLabel>
+      <content src="Text/how-dawkins-got-pwned-part-5.html"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>How Dawkins got pwned (part 6)</text>
+      </navLabel>
+      <content src="Text/how-dawkins-got-pwned-part-6.html"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>How Dawkins got pwned (part 7)</text>
+      </navLabel>
+      <content src="Text/how-dawkins-got-pwned-part-7.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:f59be905-92a3-4532-b779-8477d7ddde68</dc:identifier>
+    <dc:title>How Dawkins got pwned</dc:title>
+    <dc:creator opf:role="aut">Mencius Moldbug</dc:creator>
+    <dc:language>en</dc:language>
+    <dc:date opf:event="modification">2014-07-04</dc:date>
+    <dc:date opf:event="publication">2007-09-26</dc:date>
+    <dc:source>http://moldbuggery.blogspot.com/</dc:source>
+    <dc:contributor opf:role="trc">@jbboehr</dc:contributor>
+    <meta content="0.7.4" name="Sigil version" xmlns="http://www.idpf.org/2007/opf" />
+    <meta name="cover" content="cover.png" />
+  </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Styles/stylesheet.css" id="stylesheet.css" media-type="text/css" />
+    <item href="Text/how-dawkins-got-pwned-part-1.html" id="how-dawkins-got-pwned-part-1.html" media-type="application/xhtml+xml" />
+    <item href="Text/how-dawkins-got-pwned-part-2.html" id="how-dawkins-got-pwned-part-2.html" media-type="application/xhtml+xml" />
+    <item href="Text/how-dawkins-got-pwned-part-3.html" id="how-dawkins-got-pwned-part-3.html" media-type="application/xhtml+xml" />
+    <item href="Text/how-dawkins-got-pwned-part-4.html" id="how-dawkins-got-pwned-part-4.html" media-type="application/xhtml+xml" />
+    <item href="Text/how-dawkins-got-pwned-part-5.html" id="how-dawkins-got-pwned-part-5.html" media-type="application/xhtml+xml" />
+    <item href="Text/how-dawkins-got-pwned-part-6.html" id="how-dawkins-got-pwned-part-6.html" media-type="application/xhtml+xml" />
+    <item href="Text/how-dawkins-got-pwned-part-7.html" id="how-dawkins-got-pwned-part-7.html" media-type="application/xhtml+xml" />
+    <item href="Text/title.html" id="title.html" media-type="application/xhtml+xml" />
+    <item href="Fonts/philosopher.ttf" id="philosopher.ttf" media-type="application/x-font-ttf" />
+    <item href="Fonts/philosopher-bold.ttf" id="philosopher-bold.ttf" media-type="application/x-font-ttf" />
+    <item href="Fonts/philosopher-italic.ttf" id="philosopher-italic.ttf" media-type="application/x-font-ttf" />
+    <item href="Fonts/philosopher-italic-bold.ttf" id="philosopher-italic-bold.ttf" media-type="application/x-font-ttf" />
+    <item href="Images/cover.png" id="cover.png" media-type="image/png" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="title.html" />
+    <itemref idref="how-dawkins-got-pwned-part-1.html" />
+    <itemref idref="how-dawkins-got-pwned-part-2.html" />
+    <itemref idref="how-dawkins-got-pwned-part-3.html" />
+    <itemref idref="how-dawkins-got-pwned-part-4.html" />
+    <itemref idref="how-dawkins-got-pwned-part-5.html" />
+    <itemref idref="how-dawkins-got-pwned-part-6.html" />
+    <itemref idref="how-dawkins-got-pwned-part-7.html" />
+  </spine>
+</package>
